@@ -1,0 +1,1 @@
+cloud computing: the cloud computing is vitual envirnoment which is created on by using Aws,gcp,azzure these are also te vendors of cloud.
